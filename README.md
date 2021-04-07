@@ -1,7 +1,7 @@
 Ubersicht-Spotify-widget
 ==========================
 
-Ubersicht displays current track playing in spotify on your desktop.
+Ubersicht displays the current track playing in spotify on your desktop.
 
 Link to Ubersicht http://tracesof.net/uebersicht/#comment-1445259628
 
